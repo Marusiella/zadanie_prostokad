@@ -12,3 +12,5 @@ if (ay==cy&&by==dy&&ax==bx&&cx==dx) {
 } else {
     console.log("nie można stworzyć prostokątu")
 }
+
+//https://zpe.gov.pl/a/wlasnosci-prostokata-i-kwadratu/DY33L33Oj
